@@ -13,11 +13,13 @@ public class GestionDatos {
 	public boolean compararContenido (String fichero1, String fichero2){
 		//TODO: Implementa la funci�n
 		return true;
+		return false;
 	}
 	
 	public int buscarPalabra (String fichero1, String palabra, boolean primera_aparicion){
 		//TODO: Implementa la funci�n
 		return 5;
+		return 1;
 	}	
 
 }
